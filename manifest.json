@@ -1,0 +1,61 @@
+{
+  "author": "Galveston01",
+  "description": "Tuya Smart Life IoT devices support",
+  "gateway_specific_settings": {
+    "webthings": {
+      "exec": "{nodeLoader} {path}",
+      "primary_type": "adapter",
+      "strict_max_version": "*",
+      "strict_min_version": "0.10.0"
+    }
+  },
+  "homepage_url": "https://github.com/Galveston01/tuya-adapter",
+  "id": "tuya-adapter",
+  "license": "GPL-3.0",
+  "manifest_version": 1,
+  "name": "Tuya Smart Life",
+  "short_name": "Tuya",
+  "version": "0.7.0",
+
+  "options": {
+    "default": {
+      "devices": []
+    },
+    "schema": {
+      "type": "object",
+      "required": [
+        "devices"
+      ],
+      "properties": {
+        "devices": {
+          "description": "Define id and key values of your devices here",
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "key",
+              "type"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "key": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string",
+                "enum": ["Plug", "Lamp"]
+              },
+              "name": {
+                "readOnly": true,
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
