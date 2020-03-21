@@ -19,23 +19,25 @@
 
   "options": {
     "default": {
+      "timeout": 10,
       "devices": []
     },
     "schema": {
       "type": "object",
       "required": [
+        "timeout",
         "devices"
       ],
       "properties": {
+        "timeout": {
+          "type": "number",
+          "description": "Connection timeout in seconds"
+        },
         "devices": {
           "description": "Define id and key values of your devices here",
           "type": "array",
           "items": {
             "type": "object",
-            "required": [
-              "id",
-              "key"
-            ],
             "properties": {
               "id": {
                 "type": "string"
