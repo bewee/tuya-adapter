@@ -45,14 +45,6 @@
     "exec": "{nodeLoader} {path}"
   },
   "dependencies": {
-    "canvas": "^2.6.1",
-    "fs": "0.0.1-security",
-    "mkdirp": "^1.0.3",
-    "node-fetch": "^2.6.0",
-    "node-ssdp": "^4.0.0",
-    "os": "^0.1.1",
-    "path": "^0.12.7",
-    "tuyapi": "github:codetheweb/tuyapi",
-    "xml2js": "^0.4.23"
+    "tuyapi": "github:codetheweb/tuyapi"
   }
 }
