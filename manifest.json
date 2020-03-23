@@ -47,7 +47,7 @@
               },
               "type": {
                 "type": "string",
-                "enum": ["Plug", "Lamp"]
+                "enum": ["Plug", "Lamp", "Colour Lamp"]
               },
               "name": {
                 "readOnly": true,
