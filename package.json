@@ -45,6 +45,7 @@
     "exec": "{nodeLoader} {path}"
   },
   "dependencies": {
+    "minimist": "^1.2.5",
     "tuyapi": "github:codetheweb/tuyapi"
   }
 }
