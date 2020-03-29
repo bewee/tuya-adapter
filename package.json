@@ -12,7 +12,8 @@
     "mozilla",
     "iot",
     "adapter",
-    "tuya"
+    "tuya",
+    "smart life"
   ],
   "homepage": "https://github.com/Galveston01/tuya-adapter",
   "license": "GPL-3.0",
@@ -33,7 +34,7 @@
     "SHA256SUMS",
     "manifest.json",
     "index.js",
-    "lib"
+    "lib/"
   ],
   "moziot": {
     "api": {
