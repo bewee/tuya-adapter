@@ -19,4 +19,4 @@ If you happen to own a device that is not on this list, feel free to open an iss
 
 ## Colour light bulbs
 - <a href='https://www.amazon.com/dp/B07SPZ8MBD'>Bakibo / SLINTINTO</a>
-- <a href='https://www.amazon.com/dp/B07XYXY5QR'>LUMIMAN</a> (no colour functionality yet)
+- <a href='https://www.amazon.com/dp/B07XYXY5QR'>LUMIMAN</a> (with setting "maximum value" = 255)

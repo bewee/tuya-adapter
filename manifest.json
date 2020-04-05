@@ -52,6 +52,11 @@
                 "type": "string",
                 "enum": ["Plug", "1 gang switch", "2 gang switch", "3 gang switch", "Lamp", "Colour Lamp"]
               },
+              "maxval": {
+                "title": "Maximum number value (usually needn't be changed)",
+                "type": "number",
+                "default": 1000
+              },
               "name": {
                 "title": "Name",
                 "type": "string"
