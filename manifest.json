@@ -50,7 +50,7 @@
               "type": {
                 "title": "Type",
                 "type": "string",
-                "enum": ["Plug", "Lamp", "Colour Lamp"]
+                "enum": ["Plug", "1 gang switch", "2 gang switch", "3 gang switch", "Lamp", "Colour Lamp"]
               },
               "name": {
                 "title": "Name",
