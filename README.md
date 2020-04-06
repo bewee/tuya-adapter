@@ -12,11 +12,10 @@ If you happen to own a device that is not on this list, feel free to open an iss
 - <a href='https://www.amazon.de/dp/B07CWQGP9C'>TECKIN SP22</a>
 
 ## Switches 
-(switches with more than one gang have to be added as empty device type right now)
 - <a href='https://www.amazon.com/dp/B07RWDQBWQ'>AICLIV KS-602</a>
 - <a href='https://www.amazon.com.au/dp/B07GSTJ8TV'>Martin Jerry</a>
 - <a href='https://www.amazon.com.au/dp/B07GN8PGC3'>Jinvoo SM-SW102-2</a>
 
 ## Colour light bulbs
 - <a href='https://www.amazon.com/dp/B07SPZ8MBD'>Bakibo / SLINTINTO</a>
-- <a href='https://www.amazon.com/dp/B07XYXY5QR'>LUMIMAN</a> (with setting "maximum value" = 255)
+- <a href='https://www.amazon.com/dp/B07XYXY5QR'>LUMIMAN</a> (with setting "Maximum number value" = 255)
