@@ -19,22 +19,20 @@
 
   "options": {
     "default": {
+      "devices": [],
       "timeout": 10,
-      "devices": []
+      "log": "warn"
     },
     "schema": {
       "type": "object",
       "required": [
+        "devices",
         "timeout",
-        "devices"
+        "log"
       ],
       "properties": {
-        "timeout": {
-          "type": "number",
-          "description": "Connection timeout in seconds"
-        },
         "devices": {
-          "description": "Define id and key values of your devices here",
+          "title": "Define id and key values of your devices here",
           "type": "array",
           "items": {
             "type": "object",
@@ -63,6 +61,15 @@
               }
             }
           }
+        },
+        "timeout": {
+          "type": "number",
+          "title": "Connection timeout in seconds"
+        },
+        "log": {
+          "type": "string",
+          "title": "Log level",
+          "enum": ["none", "error", "warn", "info", "debug"]
         }
       }
     }

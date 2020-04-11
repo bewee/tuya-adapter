@@ -103,6 +103,7 @@ module.exports = {
     ],
     'no-console': 0,
     'no-duplicate-imports': 'error',
+    'no-fallthrough': 'warn',
     'no-eval': 'error',
     'no-floating-decimal': 'error',
     'no-implicit-globals': 'error',
