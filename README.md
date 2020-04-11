@@ -18,4 +18,4 @@ If you happen to own a device that is not on this list, feel free to open an iss
 
 ## Colour light bulbs
 - <a href='https://www.amazon.com/dp/B07SPZ8MBD'>Bakibo / SLINTINTO</a>
-- <a href='https://www.amazon.com/dp/B07XYXY5QR'>LUMIMAN</a> (with setting "Maximum number value" = 255)
+- <a href='https://www.amazon.com/dp/B07XYXY5QR'>LUMIMAN</a> (with config `{"maxbrightness":255,"maxlighttemperature":255,"format":"HEXHLS"}`)
