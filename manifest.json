@@ -48,7 +48,7 @@
               "type": {
                 "title": "Type",
                 "type": "string",
-                "enum": ["Plug", "Switch", "Lamp", "Colour Lamp"]
+                "enum": ["Colour Lamp", "Lamp", "Plug", "Plug with night light", "Switch"]
               },
               "config": {
                 "title": "Configuration (usually needn't be changed manually)",
