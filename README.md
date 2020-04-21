@@ -12,6 +12,9 @@ If you happen to own a device that is not on this list, feel free to open an iss
 - <a href='https://www.amazon.com/dp/B07SPZ8MBD'>Bakibo / SLINTINTO</a> (config: `{"minbrightness":10}`)
 - <a href='https://www.amazon.com/dp/B07XYXY5QR'>LUMIMAN</a> (config: `{"minbrightness":11,"maxbrightness":255,"maxlighttemperature":255,"format":"HEXHLS"}`)
 
+## Dimmers
+- <a href='https://www.amazon.com/dp/B07RBQX7BR'>Lumary Dimmer Switch L-DS100</a> (config: `{"maxlevel":100}`)
+
 ## Light bulbs
 
 ## Plugs
