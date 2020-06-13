@@ -15,7 +15,7 @@
   "manifest_version": 1,
   "name": "Tuya Smart Life",
   "short_name": "Tuya",
-  "version": "0.1.3",
+  "version": "0.2.1",
 
   "options": {
     "default": {
