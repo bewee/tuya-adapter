@@ -20,7 +20,7 @@ If you happen to own a device that is not on this list, feel free to open an iss
 - <a href='https://www.amazon.com/dp/B07RBQX7BR'>Lumary Dimmer Switch L-DS100</a> (config: `{"maxlevel":100}`)
 
 ## Fireplace Heaters
-- <a href='https://stoves.stovesguide.biz/uenjoy-embedded-electric-fireplace-insert-heater.html'>Uenjoy Embedded 28.5" Electric Fireplace Insert Heater Log Flame</a>
+- <a href='https://stoves.stovesguide.biz/uenjoy-embedded-electric-fireplace-insert-heater.html'>Uenjoy Embedded 28.5" Electric Fireplace Insert Heater Log Flame</a> (config: `{"minlevel":0,"maxlevel":2,"minbrightness":0,"maxbrightness":5}`)
 
 ## Light bulbs
 
