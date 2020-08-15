@@ -15,6 +15,7 @@ If you happen to own a device that is not on this list, feel free to open an iss
 - <a href='https://www.amazon.com/gp/product/B07PFS7RY5'>Luntak</a>
 - <a href='https://www.amazon.com/gp/product/B07H36GG8L'>Nephalae</a>
 - <a href='https://www.amazon.com/gp/product/B07HHYK14L'>Manzoku</a>
+- <a href='https://www.amazon.de/gp/product/B07S4C4488/'>AISIRER</a>
 
 ## Dimmers
 - <a href='https://www.amazon.com/dp/B07RBQX7BR'>Lumary Dimmer Switch L-DS100</a> (config: `{"maxlevel":100}`)
