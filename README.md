@@ -34,6 +34,9 @@ For plugs with n>1 sockets, use config `{"sockets":n}`
 - <a href='https://www.amazon.com/dp/B077S69421'>W-US002 smart socket</a>
 - <a href='https://www.amazon.de/gp/product/B079L6GVNF/'>Yuntong Smart relay</a>
 
+## Plugs with Energy Monitoring
+- <a href='https://www.amazon.de/gp/product/B0777BWS1P/'>Gosund Smart Plug / Socket WiFi</a>
+
 ## Plugs with night light
 - <a href='https://aracky.com/products/wifi-smart-plug-in-night-light-led-jackyled-wi-fi-smart-alexa-plug-double-outlet-extender-adjustable-brightest-or-dim-light-for-hallways-kids-dogs-work-with-echo-google-home-assistant-and-ifttt-2-pack'>JACKYLED plug with 2 sockets and night light</a> (config: `{"dps":{"brightness":103},"sockets":2,"minbrightness":1,"maxbrightness":255}`)
 
