@@ -48,7 +48,7 @@
               "type": {
                 "title": "Type",
                 "type": "string",
-                "enum": ["Colour Light", "Dimmer", "Fireplace heater", "Light", "Plug", "Plug with night light", "Switch"]
+                "enum": ["Colour Light", "Dimmer", "Fireplace heater", "Light", "Plug", "Plug with energy monitoring", "Plug with night light", "Switch"]
               },
               "config": {
                 "title": "Configuration (usually needn't be changed manually)",
