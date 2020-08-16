@@ -6,7 +6,7 @@ Install this addon through the addon list or clone it to `~/.mozilla-iot/addons/
 To add a device using these values, go to `Settings > Add-ons > Tuya Smart Life > Configure`. Add a new entry in the devices section, put your `id` and `key` values in the according fields and select a device type. After applying, the new device should be available in the "new devices" list.
 
 # Compatible devices
-If you happen to own a device that is not on this list, feel free to open an issue or a pull request.
+If you happen to own a device that is not on this list, feel free to open an issue or a pull request. The config field can usually be left empty, but needs to be filled manually for some devices.
 
 ## Colour light bulbs
 - <a href='https://www.amazon.com/dp/B07SPZ8MBD'>Bakibo / SLINTINTO</a> (config: `{"minbrightness":10}`)
@@ -27,7 +27,6 @@ If you happen to own a device that is not on this list, feel free to open an iss
 
 ## Plugs
 For plugs with n>1 sockets, use config `{"sockets":n}`
-- <a href='https://www.amazon.de/dp/B07CWQGP9C'>TECKIN SP22</a>
 - <a href='https://www.amazon.com/dp/B07MNH3BMS'>Oukitel P1 dual smart plug</a>
 - <a href='https://www.amazon.com/dp/B079GT5JFS'>CooWoo AW01 smart plug</a>
 - <a href='https://www.amazon.com/dp/B076VRH9WP'>Pinlo Smart strip</a>
@@ -36,8 +35,8 @@ For plugs with n>1 sockets, use config `{"sockets":n}`
 - <a href='https://www.amazon.de/gp/product/B079L6GVNF/'>Yuntong Smart relay</a>
 
 ## Plugs with Energy Monitoring
-You can leave the config field empty. If your Plug uses a different dps layout, you can adapt the config: `{"dps":{"on":1,"currentMonitor":18,"powerMonitor":19,"voltageMonitor":20},"sockets":1}`
 - <a href='https://www.amazon.de/gp/product/B0777BWS1P/'>Gosund Smart Plug / Socket WiFi</a>
+- <a href='https://www.amazon.de/dp/B07CWQGP9C'>TECKIN SP22</a>
 
 ## Plugs with night light
 - <a href='https://aracky.com/products/wifi-smart-plug-in-night-light-led-jackyled-wi-fi-smart-alexa-plug-double-outlet-extender-adjustable-brightest-or-dim-light-for-hallways-kids-dogs-work-with-echo-google-home-assistant-and-ifttt-2-pack'>JACKYLED plug with 2 sockets and night light</a> (config: `{"dps":{"brightness":103},"sockets":2,"minbrightness":1,"maxbrightness":255}`)
