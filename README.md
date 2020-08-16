@@ -15,6 +15,7 @@ If you happen to own a device that is not on this list, feel free to open an iss
 - <a href='https://www.amazon.com/gp/product/B07PFS7RY5'>Luntak</a>
 - <a href='https://www.amazon.com/gp/product/B07H36GG8L'>Nephalae</a>
 - <a href='https://www.amazon.com/gp/product/B07HHYK14L'>Manzoku</a>
+- <a href='https://www.amazon.de/gp/product/B07S4C4488/'>AISIRER</a>
 
 ## Dimmers
 - <a href='https://www.amazon.com/dp/B07RBQX7BR'>Lumary Dimmer Switch L-DS100</a> (config: `{"maxlevel":100}`)
@@ -33,6 +34,10 @@ For plugs with n>1 sockets, use config `{"sockets":n}`
 - <a href='https://www.amazon.com/dp/B083Z4HPJX'>XS-SSA01 mini smart socket</a>
 - <a href='https://www.amazon.com/dp/B077S69421'>W-US002 smart socket</a>
 - <a href='https://www.amazon.de/gp/product/B079L6GVNF/'>Yuntong Smart relay</a>
+
+## Plugs with Energy Monitoring
+You can leave the config field empty. If your Plug uses a different dps layout, you can adapt the config: `{"dps":{"on":1,"currentMonitor":18,"powerMonitor":19,"voltageMonitor":20},"sockets":1}`
+- <a href='https://www.amazon.de/gp/product/B0777BWS1P/'>Gosund Smart Plug / Socket WiFi</a>
 
 ## Plugs with night light
 - <a href='https://aracky.com/products/wifi-smart-plug-in-night-light-led-jackyled-wi-fi-smart-alexa-plug-double-outlet-extender-adjustable-brightest-or-dim-light-for-hallways-kids-dogs-work-with-echo-google-home-assistant-and-ifttt-2-pack'>JACKYLED plug with 2 sockets and night light</a> (config: `{"dps":{"brightness":103},"sockets":2,"minbrightness":1,"maxbrightness":255}`)
