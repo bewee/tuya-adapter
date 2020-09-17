@@ -47,3 +47,4 @@ For n-gang switches (n>1), use config `{"gangs":n}`
 - <a href='https://www.amazon.com/dp/B07RWDQBWQ'>AICLIV KS-602</a>
 - <a href='https://www.amazon.com.au/dp/B07GSTJ8TV'>Martin Jerry / Tessan wall switch</a>
 - <a href='https://www.amazon.com.au/dp/B07GN8PGC3'>Jinvoo SM-SW102-2</a> (config: `{"gangs":2}`)
+- <a href='https://www.amazon.com/dp/B07WWYQJFR'>Treatlife Smart Light Switch Single Pole</a>
