@@ -1,7 +1,7 @@
 {
   "name": "tuya-adapter",
   "display_name": "Tuya Smart Life",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Tuya Smart Life IoT devices support",
   "author": "Galveston01",
   "main": "index.js",
