@@ -3,7 +3,7 @@
   "display_name": "Tuya Smart Life",
   "version": "0.2.3",
   "description": "Tuya Smart Life IoT devices support",
-  "author": "Galveston01",
+  "author": "bewee",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ."
@@ -15,14 +15,14 @@
     "tuya",
     "smart life"
   ],
-  "homepage": "https://github.com/Galveston01/tuya-adapter",
+  "homepage": "https://github.com/bewee/tuya-adapter",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Galveston01/tuya-adapter.git"
+    "url": "https://github.com/bewee/tuya-adapter.git"
   },
   "bugs": {
-    "url": "https://github.com/Galveston01/tuya-adapter/issues"
+    "url": "https://github.com/bewee/tuya-adapter/issues"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",

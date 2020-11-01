@@ -1,5 +1,5 @@
 {
-  "author": "Galveston01",
+  "author": "bewee",
   "description": "Tuya Smart Life IoT devices support",
   "gateway_specific_settings": {
     "webthings": {
@@ -9,7 +9,7 @@
       "strict_min_version": "0.10.0"
     }
   },
-  "homepage_url": "https://github.com/Galveston01/tuya-adapter",
+  "homepage_url": "https://github.com/bewee/tuya-adapter",
   "id": "tuya-adapter",
   "license": "GPL-3.0",
   "manifest_version": 1,
