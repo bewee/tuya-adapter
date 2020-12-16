@@ -9,7 +9,6 @@
     "lint": "eslint ."
   },
   "keywords": [
-    "mozilla",
     "iot",
     "adapter",
     "tuya",
@@ -36,15 +35,6 @@
     "index.js",
     "lib/"
   ],
-  "moziot": {
-    "api": {
-      "min": 2,
-      "max": 2
-    },
-    "type": "adapter",
-    "plugin": true,
-    "exec": "{nodeLoader} {path}"
-  },
   "dependencies": {
     "minimist": "^1.2.5",
     "tuyapi": "github:codetheweb/tuyapi"
