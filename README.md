@@ -1,8 +1,8 @@
 # Tuya Adapter
-Tuya Smart Life IoT devices adapter add-on for Mozilla WebThings Gateway.
+Tuya Smart Life IoT devices adapter add-on for WebThings Gateway.
 
 # Setup
-Install this addon through the addon list or clone it to `~/.mozilla-iot/addons/` using git. To add a device, you have to know its `id` and `key` values. Follow the setup instructions <a href='https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md'>here</a> on how to obtain these.
+Install this addon through the addon list or clone it to `~/.webthings/addons/` using git. To add a device, you have to know its `id` and `key` values. Follow the setup instructions <a href='https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md'>here</a> on how to obtain these.
 To add a device using these values, go to `Settings > Add-ons > Tuya Smart Life > Configure`. Add a new entry in the devices section, put your `id` and `key` values in the according fields and select a device type. After applying, the new device should be available in the "new devices" list.
 
 # Compatible devices
