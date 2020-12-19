@@ -34,6 +34,7 @@ For plugs with n>1 sockets, use config `{"sockets":n}`
 - <a href='https://www.amazon.com/dp/B083Z4HPJX'>XS-SSA01 mini smart socket</a>
 - <a href='https://www.amazon.com/dp/B077S69421'>W-US002 smart socket</a>
 - <a href='https://www.amazon.de/gp/product/B079L6GVNF/'>Yuntong Smart relay</a>
+- <a href='https://www.costco.com/feit-electric-wi-fi-smart-plug%2c-3-pack.product.100508696.html'>Feit Electric indoor smart plugs</a>
 
 ## Plugs with Energy Monitoring
 - <a href='https://www.amazon.de/gp/product/B0777BWS1P/'>Gosund Smart Plug / Socket WiFi</a>
