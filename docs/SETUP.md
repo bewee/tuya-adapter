@@ -25,8 +25,8 @@ Here's a very detailed step-by step-guide on how to setup your devices:
              API Secret Value: <give in the Secret/Client Secret from the project you created on the iot.tuya.com website>
              Virtual ID: <enter one of the smart device id's from the device list mentioned above. It does not matter which one>
 15. The tool will respond with a list of all the (Tuya compatible) smart devices in your network, together with their ID's and local keys.
-16. Go to the Add-ons screen of the WebThings gateway and add the Tuya Smart Life add-on to the gateway.
-16. Click on the "Configure" button of the Tuya Smart Life add-on and add an entry for each smart device.
+16. Go to `Settings > Add-ons > +` in the WebThings gateway and add the Tuya Smart Life add-on to the gateway.
+16. Go to `Settings > Add-ons > Tuya Smart Life > Configure` and add an entry for each smart device.
          (enter the ID, the local key and the device type (light, switch, etc. from a drop list).
 17. Go to the Things screen of the WebThings gateway and click on the "+" button to search for new devices on the network.
 18. After scanning, you will be presented a list of newly found smart devices.
