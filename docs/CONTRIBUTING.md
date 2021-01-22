@@ -2,10 +2,10 @@
 
 ## New/unsupported devices
 
-We would be pleased to get informed about your devices which work well with this add-on! Just open a PR or issue to get your device added to the compatibility list in the `README.md`. This may help other people looking to buy devices confirmed to work well.
+We would be pleased to get informed about your devices which work well with this add-on! Just open a PR or issue to get your device added to the compatibility list in the `COMPATIBILITY.md`. This may help other people looking to buy devices confirmed to work well. Please also provide the config you used if the auto-generated one didn't work.
 
 If your device is not (fully) supported, feel free to open an issue (or PR if you fixed it on your own). We are glad about every single new supported device.
-If you open an issue, please execute the following steps and provide us with the information obtained this way:
+If you open an issue, please try to execute the following steps and provide us with the information obtained this way:
 
 - In `Gateway settings > Add-Ons > Tuya Smart Life > Configure`, change the device type to (empty) and log level to debug
 - Make a screenshot of your device with all of its properties
