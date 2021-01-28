@@ -1,7 +1,7 @@
 {
   "name": "tuya-adapter",
   "display_name": "Tuya Smart Life",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Tuya Smart Life IoT devices support",
   "author": "bewee",
   "main": "index.js",
