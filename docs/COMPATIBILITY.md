@@ -36,6 +36,7 @@ For plugs with n>1 sockets, use config `{"sockets":n}`
 ## Plugs with Energy Monitoring
 - <a href='https://www.amazon.de/gp/product/B0777BWS1P/'>Gosund Smart Plug / Socket WiFi</a>
 - <a href='https://www.amazon.de/dp/B07CWQGP9C'>TECKIN SP22</a>
+- <a href='https://marmitek.com/products/power-li-smart-power-strip-energy-meter-4-sockets'>Marmitek-Power LI power strip</a> (config: `{"sockets":5}`)
 
 ## Plugs with night light
 - <a href='https://aracky.com/products/wifi-smart-plug-in-night-light-led-jackyled-wi-fi-smart-alexa-plug-double-outlet-extender-adjustable-brightest-or-dim-light-for-hallways-kids-dogs-work-with-echo-google-home-assistant-and-ifttt-2-pack'>JACKYLED plug with 2 sockets and night light</a> (config: `{"dps":{"brightness":103},"sockets":2,"minbrightness":1,"maxbrightness":255}`)
