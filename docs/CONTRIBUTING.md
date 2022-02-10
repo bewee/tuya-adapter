@@ -10,7 +10,7 @@ If you open an issue, please try to execute the following steps and provide us w
 - In `Gateway settings > Add-Ons > Tuya Smart Life > Configure`, change the device type to (empty) and log level to debug
 - Make a screenshot of your device with all of its properties
 - What happens to your device when playing around with each of the properties you see there a little?
-- Share a portion of your log file (`Gateway settings > developer > internal protocols` or `~/.mozilla-iot/logs/run-app.log`) where the output of the tuya add-on during your changes of the properties as well as during the resulting reaction are observable
+- Share a portion of your log file (`Gateway settings > developer > internal protocols` or `~/.webthings/logs/run-app.log`) where the output of the tuya add-on during your changes of the properties as well as during the resulting reaction are observable
 
 ## Adding a new device type
 
