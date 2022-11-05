@@ -7,7 +7,7 @@ The setup process for your tuya devices is currently a little rough: You need to
 Here's a very detailed step-by step-guide on how to setup your devices:
 
 1. Add your devices to your network by means of the proprietary app (Tuya, Smart Life, etc.) on your phone/tablet.
-2. Create a Tuya developer account on the [iot.tuya.com](iot.tuya.com) website.
+2. Create a Tuya developer account on the [auth.tuya.com](https://auth.tuya.com/register) website.
 3. Create a new project on the website (give it any name, it is not important).
 4. With the project you get an Access ID/Client ID and a Access Secret/Client Secret which you will need later in the process.
 5. Click on "Link Devices" on the left side of the screen. This will bring you to the Link Devices screen.
